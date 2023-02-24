@@ -22,11 +22,12 @@ Different from the conventional one pixel, background music and other schemes, t
 
 Support for Google play (app market).
 
-## ** Demo Video **
+##  Demo Video
 
-13 | | samsung S21 Android millet 11 Android 12 12 | | Google Android Pixel 6 Pro
+
+| samsung S21 Android 13       | xiaomi 11 Android 12             | Google Pixel 6 Pro Android 12 |
 | ------------------------- | ------------------------------ | ----------------------------- |
-|! [](/GIF/sanxing.gif)    | ! [](/GIF/xiaomi.gif)          | ! [](/GIF/google.gif)         |
+| ![](/GIF/sanxing.gif)    | ![](/GIF/xiaomi.gif)          | ![](/GIF/google.gif)         |
 
 Other models without a screen:
 
